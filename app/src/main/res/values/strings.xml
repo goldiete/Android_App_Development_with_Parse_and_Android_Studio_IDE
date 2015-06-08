@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Parse.com application</string>
+
+    <string name="action_update_status">Update</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="oops">The status should not be empty!</string>
+    <string name="oops_title">Oops!</string>
+    <string name="sorry_title">Sorry!</string>
+    <string name="login_toast">Succes! Welcome!</string>
+    <string name="register_toast">Succes! Welcome back!</string>
+    <string name="update_toast">New status has been created!</string>
+
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint" translatable="false">E-mail</string>
+    <string name="update_hint">What\'s up, man?</string>
+    <string name="register_button">Register</string>
+    <string name="or_register_button">Create new account</string>
+    <string name="update_button">Update status</string>
+    <string name="or">or</string>
+    <string name="login_button">Login</string>
+
+    <string name="detail_username">Status creator</string>
+    <string name="detail_create_date">When the status was created</string>
+    <string name="detail_body">Status</string>
+
+</resources>

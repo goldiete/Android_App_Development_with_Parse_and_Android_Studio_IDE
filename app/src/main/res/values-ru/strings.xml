@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parse.com application</string>
+    <string name="action_logout">Выйти</string>
+    <string name="action_update_status">Создать</string>
+    <string name="detail_body">Запись</string>
+    <string name="detail_create_date">Запись была создана</string>
+    <string name="detail_username">Кто создал запись</string>
+    <string name="login_button">Войти</string>
+    <string name="login_hint">Имя</string>
+    <string name="oops">Запись не должна быть пустой!</string>
+    <string name="oops_title">Ойой!</string>
+    <string name="or">или</string>
+    <string name="or_register_button">Зарегистрироваться</string>
+    <string name="password_hint">Пароль</string>
+    <string name="register_button">Зарегистрировать</string>
+    <string name="sorry_title">Извините!</string>
+    <string name="update_button">Сделать запись</string>
+    <string name="update_hint">Что нового?</string>
+    <string name="login_toast">Добро пожаловать!</string>
+    <string name="register_toast">С возвращением!</string>
+    <string name="update_toast">Создана новая запись!</string>
+</resources>
