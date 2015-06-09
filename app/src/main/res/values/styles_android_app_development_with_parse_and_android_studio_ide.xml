@@ -19,7 +19,7 @@
 
 <resources>
 
-    <style name="Theme.Android_app_development_with_parse_and_android_studio_ide" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+    <style name="Theme.Android_app_development_with_parse_and_android_studio_ide" parent="android:Theme.Holo.Light.DarkActionBar">
         <item name="actionBarItemBackground">@drawable/selectable_background_android_app_development_with_parse_and_android_studio_ide</item>
         <item name="popupMenuStyle">@style/PopupMenu.Android_app_development_with_parse_and_android_studio_ide</item>
         <item name="dropDownListViewStyle">@style/DropDownListView.Android_app_development_with_parse_and_android_studio_ide</item>

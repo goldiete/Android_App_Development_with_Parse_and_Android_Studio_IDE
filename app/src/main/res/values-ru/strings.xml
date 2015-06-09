@@ -17,7 +17,7 @@
     <string name="sorry_title">Извините!</string>
     <string name="update_button">Сделать запись</string>
     <string name="update_hint">Что нового?</string>
-    <string name="login_toast">Добро пожаловать!</string>
-    <string name="register_toast">С возвращением!</string>
+    <string name="register_toast">Добро пожаловать!</string>
+    <string name="login_toast">С возвращением!</string>
     <string name="update_toast">Создана новая запись!</string>
 </resources>
